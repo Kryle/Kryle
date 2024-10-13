@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kryle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java / C / SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning Java / JS / Python
+- 📫 How to reach me @kryleeeee on Twitter (X) or kryle on Discord
 
 <!---
 Kryle/Kryle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
